@@ -10,7 +10,7 @@ import SwiftUI
 struct AboutView: View {
     var body: some View {
         
-        Text("About Little Lemon")
+        Text("About Little Lemon v2")
             .font(.largeTitle)
             .foregroundColor(.green)
             .bold()
